@@ -85,7 +85,10 @@ nav a {
     color: #999;
     border-left: 1px solid #efefef;
     font-size: 14px;
-    text-align: center;
+}
+
+header a {
+    text-decoration: none;
 }
 
 
@@ -117,6 +120,12 @@ img {
     float:left;
     margin-right: 20px;
     margin-bottom: 20px;
+}
+
+#profilePic img {
+    height:250px;
+    width:250px;
+    margin-top: 20px;
 }
 
 .mainSection {
