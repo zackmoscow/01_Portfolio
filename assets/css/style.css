@@ -183,3 +183,12 @@ img {
 }
 
 /*CONTACT.HTML*/
+
+#button{
+    background-color: #4aaaa5;
+    color: white;
+    text-align: center;
+    width: 100px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
